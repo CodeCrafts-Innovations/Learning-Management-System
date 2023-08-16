@@ -101,7 +101,7 @@ const Courses = () => {
               enrolled={enrolledCourses.includes(course.id)}
               onToggleEnroll={() => handleToggleEnroll(course.id)}
             />
-            
+            // <br/>
             
           ))}
         </div>
