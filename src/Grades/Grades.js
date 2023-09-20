@@ -4,6 +4,7 @@ const Grades = () => {
   return (
     <div>
       <h1>grades</h1>
+      <p></p>
     </div>
   )
 }
