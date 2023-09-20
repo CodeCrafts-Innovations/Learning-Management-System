@@ -8,12 +8,12 @@ import {
   FaClipboardCheck,
   FaListAlt,
 } from "react-icons/fa"; // Import FontAwesome icons
-import Grades from "./Grades";
-import Assessments from "./Assessments";
-import Tools from "./Tools";
-import Report from "./Report";
-import Courses from "./Courses";
-import Dashboard from "./Dashboard";
+import Grades from "./Grades/Grades";
+import Assessments from "./Asessment/Assessments";
+import Tools from "./Tools/Tools";
+import Report from "./Report/Report";
+import Courses from "./Courses/Courses";
+import Dashboard from "./Dashboard/Dashboard";
 import "./CSS/Sidebar.css";
 
 const Sidebar = () => {

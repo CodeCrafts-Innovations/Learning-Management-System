@@ -1,0 +1,53 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "C# Programming",
+        "videos": [
+          "https://example.com/csharp-video1",
+          "https://example.com/csharp-video2"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "JavaScript Fundamentals",
+        "videos": [
+        "https://www.youtube.com/watch?v=gfkTfcpWqAY",
+          "https://example.com/javascript-video2"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Angular Development",
+        "videos": [
+          "https://example.com/angular-video1",
+          "https://example.com/angular-video2"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Java Programming",
+        "videos": [
+          "https://example.com/java-video1",
+          "https://example.com/java-video2"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "SQL Fundamentals",
+        "videos": [
+          "https://example.com/sql-video1",
+          "https://example.com/sql-video2"
+        ]
+      },
+      {
+        "id": 6,
+        "title": ".NET Core Development",
+        "videos": [
+          "https://example.com/dotnet-video1",
+          "https://example.com/dotnet-video2"
+        ]
+      }
+    ]
+}
+  

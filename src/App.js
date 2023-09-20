@@ -1,11 +1,13 @@
 import React from "react";
+// import CsharpCourses from "./CSharpEnroll";
 import Sidebar from "./Sidebar";
-// import CourseComponent from "./CourseComponent";
+
 
 const App = () => {
   return (
     <div className="app">
-      <Sidebar />
+      
+      <Sidebar/>
     </div>
   );
 };
